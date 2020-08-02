@@ -5,7 +5,7 @@ I am a web developer focused on javascript language. I am actualing founding [Ra
 ### Languages and Frameworks ⚡
 
 * **Javascript**
-* **node.js**
+* **Node.js**
 * **React.js**
 * **Vue.js**
 
